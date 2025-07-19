@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeupc
 - 👀 I’m interested in Tran Nguyen Tech
 - 🌱 I’m currently learning Agency Google & Facebook
-- 💞️ I’m looking to collaborate on www.drweb.vn
+- 💞️ I’m looking to collaborate on www.tndigi.vn
 - 📫 How to reach me hi@az9s.com
 
 <!---
